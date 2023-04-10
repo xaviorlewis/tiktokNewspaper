@@ -22,4 +22,7 @@ Usage
 
 
 **To read the newspaper yourself, follow these steps:**
-Open the index.html file in the newspaper directory to view the self-portrait.
+
+
+Download this folder as a zip file.
+Open the text2.html file in your favorite modern browser. (Doubke-click, open with x)
