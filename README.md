@@ -25,4 +25,5 @@ HTML/CSS: Used to create the online newspaper format.
 
 
 Download this folder as a zip file.
-Open the text2.html file in your favorite modern browser. (Doubke-click, open with x)
+
+Open the text2.html file in your favorite modern browser. (Double-click, open with x)
