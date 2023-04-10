@@ -16,9 +16,9 @@ The HTML files include a header with the name of the newspaper, a section for th
 This project uses the following technologies:
 
 Python: Used to convert the text files to HTML files.
+
 HTML/CSS: Used to create the online newspaper format.
-GitHub Pages: Used to host the online newspaper and make it accessible to others.
-Usage
+
 
 
 **To read the newspaper yourself, follow these steps:**
