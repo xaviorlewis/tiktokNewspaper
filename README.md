@@ -1,10 +1,10 @@
 ***The Knowledge Tribune***
-This project is a self-portrait created from the transcriptions of my favorite TikTok videos. The transcriptions are displayed in the format of an online newspaper, creating a unique and creative representation of my digital self.
+This project is a self-portrait created from the transcriptions of my past liked TikTok videos. The transcriptions are displayed in the format of an online newspaper, creating a unique and creative representation of my digital self.
 
 
 
 **How It Works**
-To create this self-portrait, I went through my liked videos on TikTok and transcribed them into text files. Each text file contains the transcript of a single video, along with the video's title and a link to the original TikTok. I then used a script to convert the text files into HTML files in the format of an online newspaper.
+To create this self-portrait, I went through my liked videos on TikTok and transcribed them into text files. Each text file contains the transcript of a single video, along with the video's title and a link to the original TikTok. I then used a script to convert the text files into HTML sections in the format of an online newspaper.
 
 
 
